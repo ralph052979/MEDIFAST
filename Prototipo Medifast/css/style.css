@@ -1,0 +1,44 @@
+/* Interfaz inicial*/
+
+body {
+    background-color: #f8f9fa;
+}
+.container {
+    margin-top: 50px;
+}
+.header {
+    text-align: center;
+    margin-bottom: 30px;
+}
+.btn-primary {
+    width: 100%;
+    padding: 10px;
+}
+.form-control {
+    padding: 10px;
+    margin-bottom: 15px;
+}
+
+
+.logo{
+width: 60px;
+}
+
+nav{
+background-color: #198754;
+
+}
+
+a{
+    color: #f8f9fa;
+}
+
+  /*carrusel*/
+  .carousel-inner{
+    max-height: 700px;
+  }
+
+  .card-img-top{
+    max-height: 200px;
+
+  }
